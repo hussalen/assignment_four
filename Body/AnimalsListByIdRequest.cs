@@ -1,4 +1,4 @@
 namespace assignment_four.Body
 {
-        public record AnimalsListByIdRequest(int id);
+    public record AnimalsListByIdRequest(int Id);
 }
